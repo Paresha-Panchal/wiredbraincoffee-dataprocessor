@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WiredCoffeeMachine.DataProcessor", "WiredCoffeeMachine.DataProcessor\WiredCoffeeMachine.DataProcessor.csproj", "{2626C0A0-4F89-49DA-A8CD-1D8989293B1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WiredCoffeeMachine.DataProcessorTests", "WiredCoffeeMachine.DataProcessorTests\WiredCoffeeMachine.DataProcessorTests.csproj", "{C6F8A108-7385-4620-83E8-A20F8699F9F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2626C0A0-4F89-49DA-A8CD-1D8989293B1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2626C0A0-4F89-49DA-A8CD-1D8989293B1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2626C0A0-4F89-49DA-A8CD-1D8989293B1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2626C0A0-4F89-49DA-A8CD-1D8989293B1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6F8A108-7385-4620-83E8-A20F8699F9F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6F8A108-7385-4620-83E8-A20F8699F9F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6F8A108-7385-4620-83E8-A20F8699F9F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6F8A108-7385-4620-83E8-A20F8699F9F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C09BB239-9200-4093-8A2A-643781B55285}
+	EndGlobalSection
+EndGlobal
